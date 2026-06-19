@@ -3,7 +3,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Brinda+D+%F0%9F%91%8B;Computer+Science+Student;Web+Developer+%F0%9F%9A%80;UI%2FUX+Designer+%F0%9F%8E%A8;Competitive+Programmer+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Brinda+D+%F0%9F%91%8B;Computer+Science+and+Engineering+Student;Web+Developer+%F0%9F%9A%80;UI%2FUX+Designer+%F0%9F%8E%A8;Competitive+Programmer+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 </div>
@@ -17,7 +17,7 @@ public class Developer {
 
     private final String name     = "Brinda D";
     private final String location = "Perambalur, Tamil Nadu, India";
-    private final String degree   = "B.E. Computer Science @ Karpagam College of Engineering";
+    private final String degree   = "B.E. Computer Science and Engineering @ Karpagam College of Engineering";
     private final String cgpa     = "8.41 / 10.0";
     private final String email    = "brinda220906@gmail.com";
     private final String phone    = "6382878550";
@@ -84,7 +84,7 @@ public class Developer {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brindad&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brinda-09&theme=tokyonight" />
 
 </div>
 
@@ -94,7 +94,7 @@ public class Developer {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brindad&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brinda-09&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
 
 </div>
 
@@ -104,7 +104,7 @@ public class Developer {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=brindad&theme=tokyonight&hide_border=true&mode=weekly" />
+<img src="https://streak-stats.demolab.com?user=brinda-09&theme=tokyonight&hide_border=true&mode=weekly" />
 
 </div>
 
@@ -114,7 +114,7 @@ public class Developer {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=brindad&theme=tokyo-night&bg_color=0d1117&color=38bdae&line=a855f7&point=bf91f3&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=brinda-09&theme=tokyo-night&bg_color=0d1117&color=38bdae&line=a855f7&point=bf91f3&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -144,8 +144,8 @@ public class Developer {
 
 | Project | Stack | Highlights |
 |:---|:---|:---|
-| [**🍽️ Restaurant Webpage**](https://github.com/brindad) | `HTML` `CSS` `JavaScript` | Designed a restaurant website showcasing the brand, menu items, and contact details with sections for home, about us, menu, gallery, and reservation — focused on user-friendly navigation and an appealing layout |
-| [**🚔 Crime Record Management System**](https://github.com/brindad) | `HTML` `CSS` `JS` `Bootstrap` `React` | Secure system digitizing FIR registration, criminal profiles, case investigations, and evidence storage with JWT authentication, RBAC, automated FIR generation, PDF reports, and encrypted file uploads. Role-based dashboards for Officers, SHOs, and Admins to manage cases, approve FIRs, assign duties, and analyze crime trends |
+| [**🍽️ Restaurant Webpage**](https://github.com/brinda-09) | `HTML` `CSS` `JavaScript` | Designed a restaurant website showcasing the brand, menu items, and contact details with sections for home, about us, menu, gallery, and reservation — focused on user-friendly navigation and an appealing layout |
+| [**🚔 Crime Record Management System**](https://github.com/brinda-09) | `HTML` `CSS` `JS` `Bootstrap` `React` | Secure system digitizing FIR registration, criminal profiles, case investigations, and evidence storage with JWT authentication, RBAC, automated FIR generation, PDF reports, and encrypted file uploads. Role-based dashboards for Officers, SHOs, and Admins to manage cases, approve FIRs, assign duties, and analyze crime trends |
 
 </div>
 
@@ -153,7 +153,7 @@ public class Developer {
 
 ## 🏅 Achievements & Certifications
 
-* 🎓 **CGPA 8.41 / 10.0** – B.E. Computer Science
+* 🎓 **CGPA 8.41 / 10.0** – B.E. Computer Science and Engineering
 * 💻 **Web Development Intern** – Octanet Service Pvt Ltd
 * 📚 **Master the Fundamental and Advanced Concepts** – Course Certification
 * 🍃 **MongoDB Basics for Students** – Online Course
@@ -167,7 +167,8 @@ public class Developer {
 
 | Degree | Institution | Period | Score |
 |:---|:---|:---:|:---:|
-| 🎓 B.E. Computer Science | Karpagam College of Engineering | Sept 2023 – Present | **8.41 / 10.0 CGPA** |
+| 🎓 B.E. Computer Science and Engineering | Karpagam College of Engineering | Sept 2023 – Present | **8.41 / 10.0 CGPA** |
+| 📘 Higher Secondary | Sri Venkateshwara A1 Hr. Sec. School | — | **96.6%** |
 
 </div>
 
@@ -198,9 +199,9 @@ public class Developer {
 
 ### 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](#)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brindad220906/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/brinda-09)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/717823p209/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:brinda220906@gmail.com)
 
 *"Code with curiosity. Design with care. Deliver with confidence."*
