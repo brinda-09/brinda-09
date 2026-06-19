@@ -145,7 +145,7 @@ public class Developer {
 | Project | Stack | Highlights |
 |:---|:---|:---|
 | [**🍽️ Restaurant Webpage**](https://github.com/brinda-09) | `HTML` `CSS` `JavaScript` | Designed a restaurant website showcasing the brand, menu items, and contact details with sections for home, about us, menu, gallery, and reservation — focused on user-friendly navigation and an appealing layout |
-| [**🚔 Crime Record Management System**](https://github.com/brinda-09) | `HTML` `CSS` `JS` `Bootstrap` `React` | Secure system digitizing FIR registration, criminal profiles, case investigations, and evidence storage with JWT authentication, RBAC, automated FIR generation, PDF reports, and encrypted file uploads. Role-based dashboards for Officers, SHOs, and Admins to manage cases, approve FIRs, assign duties, and analyze crime trends |
+| [**🚔 Crime Record Management System**](https://github.com/43-Crime-Record-Management-System) | `HTML` `CSS` `JS` `Bootstrap` `React` | Secure system digitizing FIR registration, criminal profiles, case investigations, and evidence storage with JWT authentication, RBAC, automated FIR generation, PDF reports, and encrypted file uploads. Role-based dashboards for Officers, SHOs, and Admins to manage cases, approve FIRs, assign duties, and analyze crime trends |
 
 </div>
 
@@ -167,8 +167,8 @@ public class Developer {
 
 | Degree | Institution | Period | Score |
 |:---|:---|:---:|:---:|
-| 🎓 B.E. Computer Science and Engineering | Karpagam College of Engineering | Sept 2023 – Present | **8.41 / 10.0 CGPA** |
-| 📘 Higher Secondary | Sri Venkateshwara A1 Hr. Sec. School | 2022 - 2023 | **96.6%** |
+| 🎓 B.E. Computer Science and Engineering | Karpagam College of Engineering,Coimbatore | Sept 2023 – Present | **8.41 / 10.0 CGPA** |
+| 📘 Higher Secondary | Sri Venkateshwara A1 Hr. Sec. School,Salem | 2022 - 2023 | **96.6%** |
 
 </div>
 
@@ -181,7 +181,7 @@ public class Developer {
 ```
 🧩 Data Structures & Algorithms  →  Problem Solving, Competitive Programming
 🎨 UI/UX Design                  →  Wireframing, Figma, Prototyping
-🌐 Full Stack Development         →  MERN Stack, PHP, MySQL
+🌐 Full Stack Development        →  MERN Stack, PHP, MySQL
 ```
 
 ---
