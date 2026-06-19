@@ -168,7 +168,7 @@ public class Developer {
 | Degree | Institution | Period | Score |
 |:---|:---|:---:|:---:|
 | 🎓 B.E. Computer Science and Engineering | Karpagam College of Engineering | Sept 2023 – Present | **8.41 / 10.0 CGPA** |
-| 📘 Higher Secondary | Sri Venkateshwara A1 Hr. Sec. School | — | **96.6%** |
+| 📘 Higher Secondary | Sri Venkateshwara A1 Hr. Sec. School | 2022 - 2023 | **96.6%** |
 
 </div>
 
